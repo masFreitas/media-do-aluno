@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno.deps.json
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno.dll
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/bin/Debug/netcoreapp3.1/MediaDoAluno.pdb
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.dll
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.pdb
+/home/klaathus/Documents/programacao/DS1/MediaDoAluno/obj/Debug/netcoreapp3.1/MediaDoAluno.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\bin\Debug\netcoreapp3.1\MediaDoAluno.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 1 de programacao\MediaDoAluno\obj\Debug\netcoreapp3.1\MediaDoAluno.genruntimeconfig.cache
